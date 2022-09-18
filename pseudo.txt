@@ -1,0 +1,4 @@
+OUTPUT "masukkan harga produk"
+INPUT harga
+OUTPUT "Masukkan rate pajak dari 1 sampai 100"
+OKU ratePajak
